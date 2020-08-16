@@ -1,5 +1,5 @@
 ### こんにちは
-amachi.com.cn
+[amachi.com.cn](https://amachi.com.cn)
 
 <!--
 **AmachiInori/amachiinori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
