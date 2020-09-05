@@ -16,7 +16,7 @@ Material chemistry of Beijing University of Technology
 want to be a master of software engineering of Beijing University of Technology  
 What I'm learning recently is NLP  
 
-## 官方网站
+## 官方网站 / 公式サイト /  homepage
 [amachi.com.cn](https://amachi.com.cn)
 
 <!--
