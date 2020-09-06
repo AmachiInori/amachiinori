@@ -12,7 +12,7 @@
 
 4th year undergraduate of material chemistry of Beijing University of Technology  
 (I don't like material science and all of rationalism sciences totally  
-Painter / Flute Player / Coder
+Painter / Flute Player / Coder  
 Want to be a master of software engineering of Beijing University of Technology  
 What I'm learning recently is NLP  
 
