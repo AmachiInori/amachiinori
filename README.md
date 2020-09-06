@@ -1,17 +1,17 @@
 北京理工大学材料化学2017级在读  
-（超级不喜欢材料学  
+（超级不喜欢化学以及所有的纯理论学科  
 画画的人 吹长笛的人 写代码的人  
 北京理工大学软件工程硕士考研一生悬命中  
 最近在学习的内容是NLP  
 
 北京理工大学材料化学に読んでいる。  
-（材料学が超嫌いだ。  
+（化学と純粋理論学科が超嫌いだ。  
 絵を描く人 フルートを奏でる人 コードを書く人  
 北京理工大学のソフトウェアの修士になって大学院を受けて一生懸命している。  
 最近勉強しているのはNLPだ  
 
 4th year undergraduate of material chemistry of Beijing University of Technology  
-(I don't like material science totally  
+(I don't like material science and all of rationalism sciences totally  
 Painter / Flute Player / Coder
 Want to be a master of software engineering of Beijing University of Technology  
 What I'm learning recently is NLP  
