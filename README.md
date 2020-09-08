@@ -8,7 +8,7 @@
 （化学と純粋理論学科が超嫌いだ。  
 絵を描く人 フルートを奏でる人 コードを書く人  
 北京理工大学のソフトウェアの修士になって大学院を受けて一生懸命している。  
-最近勉強しているのはNLPだ  
+最近勉強してるのはNLPだ  
 
 4th year undergraduate of material chemistry of Beijing University of Technology  
 (I don't like material science and all of rationalism sciences totally  
