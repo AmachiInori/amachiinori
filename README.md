@@ -11,7 +11,7 @@
 最近勉強してるのはNLPだ  
 
 4th year undergraduate of material chemistry of Beijing University of Technology  
-(I don't like material science
+(I don't like material science  
 Painter / Flute Player / Coder  
 Want to be a master of software engineering of Beijing University of Technology  
 What I'm learning recently is NLP  
