@@ -13,6 +13,10 @@ Painter / Flute Player / Coder
 Want to be a master of software engineering of Beijing University of Technology  
 What I'm learning recently is NLP  
 
+编程语言列表： C/C++ - 熟悉 | QT - 熟悉 | Jekyll - 熟悉 | Python - 用过 | JavaScript - 用过 | Lua - 用过 | Java - Hello World  
+プログラミング言語： C/C++ - 熟知 | QT - 熟知 | Jekyll - 熟知 | Python - 使った | JavaScript - 使った | Lua - 使った | Java - Hello World  
+Programing Languages： C/C++ - familiar | QT - familiar | Jekyll - familiar | Python - used | JavaScript - used | Lua - used | Java - Hello World  
+
 **官方网站 / 公式サイト /  homepage**
 [amachi.com.cn](https://amachi.com.cn)
 
