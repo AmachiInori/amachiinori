@@ -1,6 +1,7 @@
 北京理工大学材料化学本科2017级在读   
 吹奏乐团摸鱼人 / 不掉头发的写代码人  
 北京理工大学软件工程硕士考研一生悬命中  
+想要成为天才工程师
 
 编程语言技能点：C/C++ - 熟悉 | QT - 熟悉 | Jekyll - 熟悉 | Python - 用过 | JavaScript - 用过 | Lua - 用过 | Java - Hello World  
 
@@ -15,10 +16,6 @@
 个人主页：  
 [amachi.com.cn](https://amachi.com.cn)
 
-北京理工大学材料化学に読んでいる。  
-絵を描く人 フルートを奏でる人 コードを書く人  
-北京理工大学のソフトウェアの修士になって大学院を受けて一生懸命している。  
-最近勉強してるのはNLPだ  
 
 4th year undergraduate of material chemistry of Beijing University of Technology  
 Painter / Flute Player / Coder  
