@@ -1,3 +1,5 @@
+[中文](https://github.com/AmachiInori/amachiinori/blob/master/README.md) / [English](https://github.com/AmachiInori/amachiinori/blob/master/README_en.md) / 日本語  
+
 北京理工大学材料化学に読んでいる。
 下手なフルート奏者・髪を落とさないでコードを書く人。
 北京理工大学のソフトウェアの修士になって大学院を受けて一生懸命している。
