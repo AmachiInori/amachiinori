@@ -1,3 +1,5 @@
+[中文](https://github.com/AmachiInori/amachiinori/blob/master/README.md) / English / [日本語](https://github.com/AmachiInori/amachiinori/blob/master/README_jp.md)  
+
 4th year undergraduate of material chemistry of Beijing University of Technology  
 Flute Player / Coder  
 Want to be a master of software engineering of Beijing University of Technology  
