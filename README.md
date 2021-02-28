@@ -17,14 +17,6 @@
 [amachi.com.cn](https://amachi.com.cn)
 
 
-4th year undergraduate of material chemistry of Beijing University of Technology  
-Painter / Flute Player / Coder  
-Want to be a master of software engineering of Beijing University of Technology  
-What I'm learning recently is NLP  
-
-プログラミング言語： C/C++ - 熟知 | QT - 熟知 | Jekyll - 熟知 | Python - 使った | JavaScript - 使った | Lua - 使った | Java - Hello World  
-Programing Languages： C/C++ - familiar | QT - familiar | Jekyll - familiar | Python - used | JavaScript - used | Lua - used | Java - Hello World  
-
 <!--
 **AmachiInori/amachiinori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
