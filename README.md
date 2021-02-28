@@ -1,3 +1,5 @@
+中文 / [English](https://github.com/AmachiInori/amachiinori/blob/master/README_en.md) / [日本語](https://github.com/AmachiInori/amachiinori/blob/master/README_jp.md)  
+
 北京理工大学材料化学本科2017级在读   
 吹奏乐团摸鱼人 / 不掉头发的写代码人  
 北京理工大学软件工程硕士考研一生悬命中  
